@@ -30,7 +30,7 @@ a{
 
 .section1{
     display: flex;
-    justify-content: center;
+    
 }
 
 .intro{
@@ -81,4 +81,59 @@ h1,h2{
 
 .title{
     font-size: 44px;
+}
+
+.section2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 40px;
+}
+
+.img{
+    border: 3px solid blue;
+    border-radius: 4px;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+.title2{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.section3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgrey;
+    height: 150px;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.person{
+    align-self: flex-end ;
+    font-size: 24px;
+    color: rgb(105, 101, 101);
+}
+
+.quote{
+    font-size: 32px;
+    
+    
 }
