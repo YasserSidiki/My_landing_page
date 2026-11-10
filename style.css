@@ -2,6 +2,7 @@ body{
     display: flex;
     flex-direction: column;
     margin: 0;
+    font-family: 'Roboto';
 }
 
 header{
@@ -13,7 +14,7 @@ header{
 
 .links{
     display: flex;
-    gap: 10px;
+    gap: 18px;
     align-items: center;
 }
 
@@ -55,7 +56,7 @@ a{
 
 .signup{
     width: 100px;
-    margin-top: 8px;
+    margin-top: 16px;
     border-radius: 4px;
     background-color: blue;
     color: white;
@@ -140,6 +141,8 @@ h1,h2{
 
 .quote{
     font-size: 32px;
+    font-family: 'Cormorant Garamond';
+    font-weight: 800;
     
 }
 
