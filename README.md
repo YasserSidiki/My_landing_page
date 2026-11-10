@@ -1,1 +1,1 @@
-# My_landing_page
+This is my personalized landing page. I loved making it, I learned a lot. Thanks to the Odin Project Team for challenging us. 🙏🏻
